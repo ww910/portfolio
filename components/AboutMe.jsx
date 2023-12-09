@@ -21,6 +21,7 @@ const TAB_DATA = [
         id: "experiences",
         content: (
           <ul className="list-disc pl-2">
+            <li>CTF</li>
           </ul>
         ),
     },
