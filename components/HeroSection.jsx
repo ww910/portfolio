@@ -24,7 +24,7 @@ const HeroSection = () => {
                 </span>
               </span>
               <br></br>
-              <span className="text-7xl">I'm 
+              <span className="text-7xl">I&apos;m 
               <TypeWritter
                 options={{
                     autoStart: true,
